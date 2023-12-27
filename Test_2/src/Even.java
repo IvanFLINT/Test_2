@@ -10,5 +10,6 @@ public class Even {
         } else {
             System.out.println("Введенное число нечетное");
         }
+        sc.close();
     }
 }

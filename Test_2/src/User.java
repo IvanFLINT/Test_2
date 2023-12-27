@@ -14,6 +14,8 @@ public class User {
         } else {
             System.out.println("Не соответствует условию");
         }
+        sc.close();
     }
+
 }
 

@@ -15,5 +15,6 @@ public class Temperature {
             System.out.println("Hot");
 
         }
+        sc.close();
     }
 }
