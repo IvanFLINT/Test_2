@@ -9,8 +9,8 @@ public class User {
             int sum = 0;
             for (int i = 1; i <= a; i++) {
                 sum += i;
-                System.out.println(sum);
             }
+            System.out.println("Сумма всех чисел = " + sum);
         } else {
             System.out.println("Не соответствует условию");
         }
